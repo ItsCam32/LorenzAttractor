@@ -1,5 +1,7 @@
 <h1>Lorenz Attractor</h1>
 
+### [Release Build](https://github.com/ItsCam32/LorenzAttractor/releases/tag/v1.0.0)
+
 <h2>Description</h2>
 The Lorenz Attractor is a system of seemingly normal differential equations that provide chaotic and wildly differing results when the parameter values and initial condtions are changed even very slightly. The well-used term "Butterfly Effect" was influenced by the results from the Lorenz Attractor. This simulation provides a 3D recreation of this effect and a colourful visualisation of how the effect changes over time.
 <br>
