@@ -1,8 +1,10 @@
-<h1>Lorenz Attractor (Unity)</h1>
+<h1>Lorenz Attractor</h1>
 
 <h2>Description</h2>
-The Lorenz Attractor is a type of Lorenz System named after Edward Lorenz, which is a system of seemingly normal differential equations that provide chaotic and wildly differing results when the parameter values and initial condtions are changed even very slightly. The well-used term "Butterfly Effect" was influenced by the results from the Lorenz Attractor. This simulation provides a 3D recreation of this effect and a colourful visualisation of how the enticing effect changes over time.
-<br />
+The Lorenz Attractor is a system of seemingly normal differential equations that provide chaotic and wildly differing results when the parameter values and initial condtions are changed even very slightly. The well-used term "Butterfly Effect" was influenced by the results from the Lorenz Attractor. This simulation provides a 3D recreation of this effect and a colourful visualisation of how the effect changes over time.
+<br>
+<br>
+<b>Simulated in the Unity engine.</b>
 
 <h2>Media</h2>
 
